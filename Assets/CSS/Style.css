@@ -79,7 +79,7 @@ nav {
 
 }
 #background{
-    background: url(Assets/IMG/Hero-img.png);
+    background: url(/IMG/Hero-img.png);
     background-size: cover;
     height: 700px;
         /* Create the parallax scrolling effect */
